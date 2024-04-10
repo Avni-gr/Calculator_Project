@@ -1,10 +1,10 @@
 # Calculator_Project
 This project is a simple yet functional calculator developed using HTML, CSS, and fundamental JavaScript.
-- [Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division with ease.]
-Clear Functionality: Clear the calculator's display to start fresh with your calculations.
-Responsive Design: The calculator is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
-Simple User Interface: The user interface is intuitive and easy to use, making it accessible for users of all levels.
-Lightweight and Fast: The project is designed to be lightweight, ensuring fast loading times and smooth performance.
+- Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division with ease.
+- Clear Functionality: Clear the calculator's display to start fresh with your calculations.
+- Responsive Design: The calculator is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
+- Simple User Interface: The user interface is intuitive and easy to use, making it accessible for users of all levels.
+- Lightweight and Fast: The project is designed to be lightweight, ensuring fast loading times and smooth performance.
 
 ### Table of contents
 
