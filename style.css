@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(58, 40, 68);
+}
+h6{
+  color: white;
+  margin-left: 37%;
+}
+#container {
+  display: flex;
+  justify-content: center; 
+}
+#Calculator{
+  border: 2px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  width: 400px;
+}
+#input-button{
+  margin:20px 35px;
+  width: 80%;
+  font-size: 40px;
+  color: rgb(254, 210, 210);
+  background-color: rgb(33, 36, 39);
+}
+
+#button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button{
+  width: 70px;
+  height: 65px;
+  margin: 10px 20px;
+  font-weight: 700;
+  color: rgb(254, 210, 210);
+  background-color: rgb(69, 74, 79);
+}
