@@ -18,7 +18,7 @@ Lightweight and Fast: The project is designed to be lightweight, ensuring fast l
 
 ### Screenshot
 
-![](https://github.com/Avni-gr/ToDo_List_Website/blob/main/Screenshot%20(34).png?raw=true)
+![](https://github.com/Avni-gr/Calculator_Project/blob/main/Screenshot%202024-04-10%20190002.png?raw=true)
 
 ### Links
 
