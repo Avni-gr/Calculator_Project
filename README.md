@@ -22,7 +22,7 @@ Lightweight and Fast: The project is designed to be lightweight, ensuring fast l
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/ToDo_List_Website/)
+- Live Site URL: (https://avni-gr.github.io/Calculator_Project/)
 
 ## My process
 
